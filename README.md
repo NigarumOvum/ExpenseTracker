@@ -1,4 +1,4 @@
-# ExcghangeRateCalculator
+# Expense Tracker
 
 Made with Vite(Vanilla JS & TyepScript)
 
